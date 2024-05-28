@@ -1,7 +1,4 @@
-Nav {
-    background-color: black;
-    color: white;
-}
+
 
 .container {
         align-items: center; /* Align items vertically */
@@ -12,6 +9,8 @@ Nav {
     margin: 0;
     padding: 0;
     display: flex;
+    background-color: black;
+    color: white;
 }
 
 li {
@@ -40,7 +39,7 @@ li {
 
 .Image1{
     margin: 50px;
-
+    
 
 }
 .Text{
@@ -204,7 +203,8 @@ li {
 
 .container-fluid4 {
     padding-top: 10px;
-   background-image: url(Images/Img12.jpg)
+   background-image: url(Images/Img12.jpg);
+  padding: 60px;
 
 }
 
